@@ -44,28 +44,28 @@ Note that this was the easy way to *create* your website, but it does come at a 
   color: Purple }
   
 .gs-section-01 p {
-  font-size: 40px;
+  font-size: 20px;
   }
   
   .gs-section-02 h3 {
   color: DarkMagenta }
   
 .gs-section-02 p {
-  font-size: 35px;
+  font-size: 18px;
   }
   
   .gs-section-03 h3 {
   color: MediumVioletRed }
   
 .gs-section-03 p {
-  font-size: 30px;
+  font-size: 16px;
   }
   
   .gs-section-04 h3 {
   color: DeepPink }
   
 .gs-section-04 p {
-  font-size: 25px;
+  font-size: 18px;
   }
   
   </style>
