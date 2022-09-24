@@ -40,43 +40,35 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 <style>
   
-.gs-section-01 h1 
-  {
+.gs-section-01 h1 {
   color: Purple
   }
   
-.gs-section-01 p 
-  {
+.gs-section-01 p {
   font-size: 24px;
   }
   
-  .gs-section-02 h2 
-  {
-  color: Black 
+  .gs-section-02 h2 {
+   color: Black 
   }
   
-.gs-section-02 p 
-  {
+.gs-section-02 p {
   font-size: 18px;
   }
   
-  .gs-section-03 h3 
-  {
-  color: Blue 
+  .gs-section-03 h3 {
+   color: Blue 
   }
   
-.gs-section-03 p 
-  {
+.gs-section-03 p {
   font-size: 28px;
   }
   
-  .gs-section-04 h4 
-  {
+  .gs-section-04 h4 {
   color: Yellow 
   }
   
-.gs-section-04 p 
-  {
+.gs-section-04 p {
   font-size: 16px;
   }
   
