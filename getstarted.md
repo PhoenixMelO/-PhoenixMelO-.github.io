@@ -52,7 +52,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
   
   .gs-section-02 h2 
   {
-  color: DarkMagenta 
+  color: Black 
   }
   
 .gs-section-02 p 
@@ -62,7 +62,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
   
   .gs-section-03 h3 
   {
-  color: MediumVioletRed 
+  color: Blue 
   }
   
 .gs-section-03 p 
@@ -72,7 +72,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
   
   .gs-section-04 h4 
   {
-  color: DeepPink 
+  color: Yellow 
   }
   
 .gs-section-04 p 
