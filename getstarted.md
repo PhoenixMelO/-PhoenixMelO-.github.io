@@ -40,7 +40,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 <style>
   
-.gs-section-01 h1 {
+.gs-section-01 h3 {
   color: Purple
   }
   
@@ -48,7 +48,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
   font-size: 24px;
   }
   
-  .gs-section-02 h2 {
+  .gs-section-02 h3 {
    color: Black 
   }
   
@@ -64,7 +64,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
   font-size: 28px;
   }
   
-  .gs-section-04 h4 {
+  .gs-section-04 h3 {
   color: Yellow 
   }
   
