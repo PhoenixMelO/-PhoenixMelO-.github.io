@@ -133,11 +133,11 @@ layout: page
 
 
           ###
-          ### nice-text.html layout
+          ### page.html layout
           ###
 
           ---
-          layout: default
+          layout:page
           ---
 
           &lt;div class="pretty-text">
@@ -154,7 +154,7 @@ layout: page
           ###
 
           ---
-          layout: nice-text
+          layout: liquid-table
           ---
 
           &lbrace;&lbrace; content }}
