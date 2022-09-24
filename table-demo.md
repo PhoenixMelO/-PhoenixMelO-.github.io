@@ -162,7 +162,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           ###
 
           ---
-          layout: default
+          layout: page
           ---
 
           &lt;div class="pretty-text">
@@ -179,7 +179,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
           ###
 
           ---
-          layout: nice-text
+          layout: page
           ---
 
           &lbrace;&lbrace; content }}
