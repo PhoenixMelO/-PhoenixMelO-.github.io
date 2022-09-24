@@ -47,7 +47,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
   
 .gs-section-01 p 
   {
-  font-size: 20px;
+  font-size: 24px;
   }
   
   .gs-section-02 h2 
@@ -67,7 +67,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
   
 .gs-section-03 p 
   {
-  font-size: 16px;
+  font-size: 28px;
   }
   
   .gs-section-04 h4 
@@ -77,7 +77,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
   
 .gs-section-04 p 
   {
-  font-size: 18px;
+  font-size: 16px;
   }
   
   </style>
